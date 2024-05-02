@@ -11,4 +11,4 @@ Always on the lookout for new opportunities.
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenAR)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenAR&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenAR&show=prs_merged,prs_merged_percentage&show_icons=true)
