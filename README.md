@@ -1,6 +1,6 @@
 ### Hi there. I'm Aiden 👋
 
-I'm a 3B Computer Science student 💻 at the University of Waterloo, originally from Trinidad and Tobago🇹🇹, specializing in Data Science 👨‍💻 and Artificial Intelligence 🤖. 
+I'm a 3B Computer Science student 💻 at the University of Waterloo 🇨🇦, originally from Trinidad and Tobago 🇹🇹, specializing in Data Science 👨‍💻 and Artificial Intelligence 🤖. 
 
 Always on the lookout for new opportunities. 
 
