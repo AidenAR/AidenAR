@@ -1,4 +1,8 @@
-### Hi there. I'm Aiden 👋
+### Hi there. I'm Aiden 👋 
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aiden-ramgoolam-34598a23a/)
+
 
 I'm a 4A Computer Science student 💻 at the University of Waterloo 🇨🇦, originally from Trinidad and Tobago 🇹🇹, specializing in Data Science 👨‍💻 and Artificial Intelligence 🤖. 
 
