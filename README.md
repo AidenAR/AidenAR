@@ -22,6 +22,9 @@ Volunteer/Club Experiences:
 3. Prev Data Analyst @ UW Data Science Club 📊.
 
 
+[![Resume](https://img.shields.io/badge/Resume-View-brightgreen)](https://www.dropbox.com/scl/fi/10uqycvmgqo6k2psfxk6k/Aiden_Ramgoolam_Jan_2025_Resume-_ALL_Exp.pdf?rlkey=u2yozofgz0mwchcv7s37fonnv&dl=0)
+
+
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenAR)
 
