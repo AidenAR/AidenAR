@@ -8,12 +8,19 @@ I'm a 4A Computer Science student 💻 at the University of Waterloo 🇨🇦, o
 
 Always on the lookout for new opportunities in Software Eng, Data & Product!
 
-1. Current Software Engineering Intern @ Conduit Commerce 🛠️.
-2. Prev Data Scientist @ Onlia Insurance 🏠,
+
+Internships:
+1. Prev Software Engineering Intern @ Conduit Commerce 🛠️.
+2. Prev Data Scientist @ Onlia Insurance 🏠.
+3. Prev Automation Engineer at Planworth 📜.
+4. Prev Wifi-Software Engineering Intern @ Ford 🏎️.
+
+
+Volunteer/Club Experiences:
+1. Prev Full Stack Developer @ UW Data Science Club 📊.
+2. Prev Undergraduate Research Assistant (URA) @ UWaterloo Real-time Embedded Software Group 🕒💻 
 3. Prev Data Analyst @ UW Data Science Club 📊.
-4. Prev Automation Engineer at Planworth 📜,
-5. Prev Wifi-Software Engineering Intern @ Ford 🏎️.
-   
+
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenAR)
