@@ -1,9 +1,10 @@
 ### Hi there. I'm Aiden 👋 
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aiden-ramgoolam-34598a23a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge)](https://www.linkedin.com/in/aiden-ramgoolam-34598a23a/)
 
-[![Full Resume](https://img.shields.io/badge/Resume-View-brightgreen)](https://www.dropbox.com/scl/fi/10uqycvmgqo6k2psfxk6k/Aiden_Ramgoolam_Jan_2025_Resume-_ALL_Exp.pdf?rlkey=u2yozofgz0mwchcv7s37fonnv&dl=0)
+[![Full Resume](https://img.shields.io/badge/Resume-View-brightgreen?style=for-the-badge)](https://www.dropbox.com/scl/fi/10uqycvmgqo6k2psfxk6k/Aiden_Ramgoolam_Jan_2025_Resume-_ALL_Exp.pdf?rlkey=u2yozofgz0mwchcv7s37fonnv&dl=0)
+
 
 
 I'm a 4A Computer Science student 💻 at the University of Waterloo 🇨🇦, originally from Trinidad and Tobago 🇹🇹, specializing in Data Science 👨‍💻 and Artificial Intelligence 🤖. 
