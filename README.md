@@ -27,6 +27,4 @@ Volunteer/Club Experiences:
 
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenAR)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenAR&hide=contribs,prs,issues,stars&hide_rank=true)
