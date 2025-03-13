@@ -25,6 +25,8 @@ Volunteer/Club Experiences:
 3. Prev Data Analyst @ UW Data Science Club 📊.
 
 
+Project Directory:
+https://www.dropbox.com/scl/fi/dmoj8s5v29n96m97sx91t/Aiden_Jan_2025_AllProjects.pdf?rlkey=9nobyhor9s8yvlhrdazo3qjz5&st=lkkyppeb&dl=0
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenAR&hide=contribs,prs,issues,stars&hide_rank=true)
