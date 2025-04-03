@@ -7,6 +7,8 @@
 
 🔗 [Portfolio Website](https://aidenramgoolam.netlify.app/) *(unfinished)*
 
+https://app.netlify.com/teams/aidenar/sites
+
 
 I'm a 4A Computer Science student 💻 at the University of Waterloo 🇨🇦, originally from Trinidad and Tobago 🇹🇹, specializing in Data Science 👨‍💻 and Artificial Intelligence 🤖. 
 
