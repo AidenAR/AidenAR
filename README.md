@@ -16,7 +16,6 @@ Always on the lookout for new opportunities in Software Eng, Data & Product!
 
 
 Internships (MOST RECENT FIRST):
-
 1.Incoming Software Engineering Intern @ Marketing Kitchen 🍽️.
 2. Prev Software Engineering Intern @ Conduit Commerce 🛠️.
 3. Prev Data Scientist @ Onlia Insurance 🏠.
