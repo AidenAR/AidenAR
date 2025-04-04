@@ -15,12 +15,13 @@ I'm a 4A Computer Science student 💻 at the University of Waterloo 🇨🇦, o
 Always on the lookout for new opportunities in Software Eng, Data & Product!
 
 
-Internships:
-1. Prev Software Engineering Intern @ Conduit Commerce 🛠️.
-2. Prev Data Scientist @ Onlia Insurance 🏠.
-3. Prev Automation Engineer at Planworth 📜.
-4. Prev Wifi-Software Engineering Intern @ Ford 🏎️.
+Internships (MOST RECENT FIRST):
 
+1.Incoming Software Engineering Intern @ Marketing Kitchen 🍽️.
+2. Prev Software Engineering Intern @ Conduit Commerce 🛠️.
+3. Prev Data Scientist @ Onlia Insurance 🏠.
+4. Prev Automation Engineer at Planworth 📜.
+5. Prev Wifi-Software Engineering Intern @ Ford 🏎️.
 
 Volunteer/Club Experiences:
 1. Prev Full Stack Developer @ UW Data Science Club 📊.
