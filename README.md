@@ -5,7 +5,7 @@
 
 [![Full Resume](https://img.shields.io/badge/Resume-View-brightgreen?style=for-the-badge)](https://www.dropbox.com/scl/fi/10uqycvmgqo6k2psfxk6k/Aiden_Ramgoolam_Jan_2025_Resume-_ALL_Exp.pdf?rlkey=u2yozofgz0mwchcv7s37fonnv&dl=0)
 
-🔗 [Portfolio Website](https://aidenramgoolam.netlify.app/) *(unfinished)*
+🔗 [Portfolio Website](https://aidenramgoolam.netlify.app/) *(unfinished will finish after finals so mid Aprilish)*
 
 https://app.netlify.com/teams/aidenar/sites
 
