@@ -18,6 +18,7 @@ Always on the lookout for new opportunities in Software Eng, Data & Product!
 ---
 
 ## 💼 Internships (Most Recent First)
+I love Startups!!
 1. **Current Software Engineering Intern** @ Marketing Kitchen 🍽️  
 2. **Software Engineering Intern** @ Conduit Commerce 🛠️  
 3. **Data Scientist** @ Onlia Insurance 🏠  
