@@ -19,11 +19,12 @@ Always on the lookout for new opportunities in Software Eng, Data & Product!
 
 ## 💼 Internships (Most Recent First)
 I love Startups!!
-1. **Current Software Engineering Intern** @ Marketing Kitchen 🍽️  
-2. **Software Engineering Intern** @ Conduit Commerce 🛠️  
-3. **Data Scientist** @ Onlia Insurance 🏠  
-4. **Automation Engineer** @ Planworth 📜  
-5. **Wifi-Software Engineering Intern** @ Ford 🏎️
+1. **Incoming Backend Engineering Intern** @ Faire 🛍️
+2. **Current Software Engineering Intern** @ Marketing Kitchen 🍽️  
+3. **Software Engineering Intern** @ Conduit Commerce 🛠️  
+4. **Data Scientist** @ Onlia Insurance 🏠  
+5. **Automation Engineer** @ Planworth 📜  
+6. **Wifi-Software Engineering Intern** @ Ford 🏎️
 
 ## 🤝 Volunteer & Club Experiences
 1. **Full Stack Developer** @ UW Data Science Club 📊  
