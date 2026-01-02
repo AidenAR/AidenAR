@@ -2,7 +2,7 @@
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge)](https://www.linkedin.com/in/aiden-ramgoolam-34598a23a/)
-[![Full Resume](https://img.shields.io/badge/Resume-View-brightgreen?style=for-the-badge)](https://www.dropbox.com/scl/fi/10uqycvmgqo6k2psfxk6k/Aiden_Ramgoolam_Jan_2025_Resume-_ALL_Exp.pdf?rlkey=u2yozofgz0mwchcv7s37fonnv&dl=0)
+[![Full Resume](https://img.shields.io/badge/Resume-View-brightgreen?style=for-the-badge)](https://www.dropbox.com/scl/fi/c2zah7ra0pttiyl48r9yi/Aiden_noProjects_Jan_2026_Resume.pdf?rlkey=t2ayfypb6cuusocu44pvyna23&dl=0)
 [![Transcript - April 2025](https://img.shields.io/badge/Transcript--April%202025-orange?style=for-the-badge)](https://www.dropbox.com/scl/fi/2n5iolikr39wbwjrjym9o/Aiden_April25_TSRPT.pdf?rlkey=g18a0q5h9blivtvxidwz0vysn&dl=0)
 
 
@@ -19,8 +19,8 @@ Always on the lookout for new opportunities in Software Eng, Data & Product!
 
 ## 💼 Internships (Most Recent First)
 I love Startups!!
-1. **Incoming Backend Engineering Intern** @ Faire 🛍️
-2. **Current Software Engineering Intern** @ Marketing Kitchen 🍽️  
+1. **Backend Engineering Intern** @ Faire 🛍️
+2. **Software Engineering Intern** @ Marketing Kitchen 🍽️  
 3. **Software Engineering Intern** @ Conduit Commerce 🛠️  
 4. **Data Scientist** @ Onlia Insurance 🏠  
 5. **Automation Engineer** @ Planworth 📜  
