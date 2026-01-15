@@ -6,7 +6,7 @@
 [![Transcript - April 2025](https://img.shields.io/badge/Transcript--April%202025-orange?style=for-the-badge)](https://www.dropbox.com/scl/fi/2n5iolikr39wbwjrjym9o/Aiden_April25_TSRPT.pdf?rlkey=g18a0q5h9blivtvxidwz0vysn&dl=0)
 
 
-🔗 [Portfolio Website](https://aidenramgoolam.netlify.app/) *(unfinished, aiming to complete during co-op term — End of May)*  
+🔗 [Portfolio Website](https://aidenramgoolam.netlify.app/) *(unfinished, aiming to complete — End of May 2026)*  
 🔗 [Netlify Projects Dashboard](https://app.netlify.com/teams/aidenar/sites)
 
 ---
