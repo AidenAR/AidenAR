@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge)](https://www.linkedin.com/in/aiden-ramgoolam-34598a23a/)
 [![Full Resume](https://img.shields.io/badge/Resume-View-brightgreen?style=for-the-badge)](https://www.dropbox.com/scl/fi/c2zah7ra0pttiyl48r9yi/Aiden_noProjects_Jan_2026_Resume.pdf?rlkey=t2ayfypb6cuusocu44pvyna23&dl=0)
 [![Transcript - April 2025](https://img.shields.io/badge/Transcript--April%202025-orange?style=for-the-badge)](https://www.dropbox.com/scl/fi/2n5iolikr39wbwjrjym9o/Aiden_April25_TSRPT.pdf?rlkey=g18a0q5h9blivtvxidwz0vysn&dl=0)
+[![All Projects - Jan 2026](https://img.shields.io/badge/All%20Projects--Jan%202026-purple?style=for-the-badge)](https://www.dropbox.com/scl/fi/6tcuac80v4a416j9jkw6q/AllProjectsJan2026.pdf?rlkey=m4zkzizl6w3619hoo8hy7zw3x&dl=0)
 
 
 🔗 [Portfolio Website](https://aidenramgoolam.netlify.app/) *(unfinished, aiming to complete — End of May 2026)*  
