@@ -33,6 +33,18 @@ Always open to opportunities in **Software Engineering, Data, and Product**.
 
 ---
 
+## ⚡ Outside of Tech
+
+When I’m not coding, you’ll probably find me:
+- 🏋️ Hitting PRs at the gym  
+- 🧗 Rock climbing (trying not to fall… successfully)  
+- 🏃 Running — I live for kudos on Strava
+- 🍜 Trying new restaurants w friends - I hate BELI
+- 🐶 Playing with dogs
+- 🎬 Watching movies — always open to recommendations  
+
+---
+
 ## 💼 Internships (Most Recent First)
 1. Backend Engineering Intern @ Faire  
 2. Software Engineering Intern @ Marketing Kitchen  
@@ -47,12 +59,3 @@ Always open to opportunities in **Software Engineering, Data, and Product**.
 1. Full Stack Developer @ UW Data Science Club  
 2. Undergraduate Research Assistant @ UWaterloo Real-time Embedded Software Group  
 3. Data Analyst @ UW Data Science Club  
-
----
-
-## 🗂️ Project Directory
-📁 https://www.dropbox.com/scl/fi/dmoj8s5v29n96m97sx91t/Aiden_Jan_2025_AllProjects.pdf?rlkey=9nobyhor9s8yvlhrdazo3qjz5&dl=0
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AidenAR&hide=contribs,prs,issues,stars&hide_rank=true)
