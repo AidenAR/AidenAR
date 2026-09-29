@@ -29,7 +29,7 @@
 
 ---
 
-I'm a **4B Computer Science student** at the University of Waterloo 🇨🇦, originally from Trinidad and Tobago 🇹🇹, specializing in **Data Science & AI**.
+I'm a **Computer Science grad** from the University of Waterloo 🇨🇦, originally from Trinidad and Tobago 🇹🇹, specializing in **Data Science & AI**.
 
 Always open to opportunities in **Software Engineering, Data, and Product**.
 
@@ -38,13 +38,15 @@ Always open to opportunities in **Software Engineering, Data, and Product**.
 ## ⚡ Outside of Tech
 
 When I’m not coding, you’ll probably find me:
-- 🏋️ Hitting PRs at the gym  
+- 🏋️ Hitting PRs at the gym or playing rugby  
 - 🧗 Rock climbing (trying not to fall… successfully)  
 - 🏃 Running — I live for kudos on Strava
 - 🍜 Trying new restaurants w friends - I hate BELI
 - 🐶 Playing with dogs
 - 🎬 Watching movies — always open to recommendations  
 
+## 💼 Full time roles (Most Recent First)
+1. Engineering @ EarnIn  
 ---
 
 ## 💼 Internships (Most Recent First)
